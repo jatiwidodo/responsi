@@ -11,8 +11,8 @@ namespace ResponsiPemrog2243
         static void Main(string[] args)
         {
             //objek Karyawan baru
-            Karyawan karyawan1 = new Karyawan("18.11.2279", "jaty", 4000000);
-            Karyawan karyawan2 = new Karyawan("22.79.1118", "paijo", 3000000);
+            Karyawan karyawan1 = new Karyawan("18.11.2243", "jaty", 4000000);
+            Karyawan karyawan2 = new Karyawan("54.79.1118", "paijo", 3000000);
 
             //Nampilkan Gaji
             Console.WriteLine("No NIK/Nama            Gaji Bulanan");
