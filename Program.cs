@@ -19,7 +19,8 @@ namespace ResponsiPemrog2243
             Console.WriteLine("-----------------------------------");
             Console.WriteLine("1. {0} {1}        {2}", karyawan1.Nik, karyawan1.Nama, karyawan1.GajiBulanan);
             Console.WriteLine("2. {0} {1}         {2}", karyawan2.Nik, karyawan2.Nama, karyawan2.GajiBulanan);
-
+            Console.WriteLine();
+            Console.WriteLine("Alhamdullilah gaji naik");
             Console.WriteLine();
 
             //naik Gaji
