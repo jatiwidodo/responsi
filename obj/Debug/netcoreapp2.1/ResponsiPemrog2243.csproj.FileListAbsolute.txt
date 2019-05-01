@@ -1,0 +1,11 @@
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\bin\Debug\netcoreapp2.1\ResponsiPemrog2243.deps.json
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\bin\Debug\netcoreapp2.1\ResponsiPemrog2243.runtimeconfig.json
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\bin\Debug\netcoreapp2.1\ResponsiPemrog2243.runtimeconfig.dev.json
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\bin\Debug\netcoreapp2.1\ResponsiPemrog2243.dll
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\bin\Debug\netcoreapp2.1\ResponsiPemrog2243.pdb
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\obj\Debug\netcoreapp2.1\ResponsiPemrog2243.csprojAssemblyReference.cache
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\obj\Debug\netcoreapp2.1\ResponsiPemrog2243.csproj.CoreCompileInputs.cache
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\obj\Debug\netcoreapp2.1\ResponsiPemrog2243.AssemblyInfoInputs.cache
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\obj\Debug\netcoreapp2.1\ResponsiPemrog2243.AssemblyInfo.cs
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\obj\Debug\netcoreapp2.1\ResponsiPemrog2243.dll
+D:\tugas pemrog\ResponsiPemrog2243\ResponsiPemrog2243\obj\Debug\netcoreapp2.1\ResponsiPemrog2243.pdb
